@@ -1,5 +1,6 @@
 module.exports = {
   name: '하 지양',
+  eng_name: 'haji',
   title: 'Data Engineer',
   lang:'kor',
   facts: {
